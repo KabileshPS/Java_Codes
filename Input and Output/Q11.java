@@ -1,0 +1,9 @@
+import java.util.*;
+public class Q11 {
+    public static void main(String[] args) {
+        Scanner sc=new Scanner(System.in);
+        char c=sc.next().charAt(0);
+        int acsii =(int)c;
+        System.out.println(acsii);
+    }
+}
